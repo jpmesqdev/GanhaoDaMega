@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">GanhaoDaMega</string>
+  <string name="accessibility_logo">Trevo de quatro folhas</string>
+  <string name="title_message">Tenta a sorte aí bichão, escolhe a quantidade de números que você vai jogar, de <b>6</b> a <b>15</b>. Quanto mais números mais chance de ganhar porém fica mais caro.</string>
+  <string name="input_number_hint">Digite um número</string>
+  <string name="btn_generate">Gerar</string>
+  <string name="btn_regenerate">Novamente</string>
+  <string name="input_error">O número digitado precisa estar entre 6 e 15</string>
+  <string name="numbers_placeholder">__-__ ↓ __-__</string>
+</resources>
